@@ -1,8 +1,6 @@
 /* 
- *  Name: Aaron Crum
- *  CSU ID: 2698195 
- *  CIS 265: Homework 3
- *  Description: Please check the Case Study 3.8 of your textbook: Computing the body mass index (BMI) (page 111 in tenth edition). Revise the code to let the user enter weight, feet, and inches instead of just inches and then compute BMI. 
+ *  Description: A program for computing the body mass index (BMI)
+ *  The user enters weight, feet, and inches instead of just inches and then computes BMI 
 */
 
 import java.util.Scanner;
